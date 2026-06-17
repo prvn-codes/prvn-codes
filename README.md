@@ -15,8 +15,6 @@ esctl list
 esctl logs -f myapp
 ```
 
-**[Claude Usage Tracker](https://github.com/prvn-codes/Claude-Usage-Tracker)** — macOS menu bar app that shows Claude AI usage limits in real time. Built with Swift/SwiftUI.
-
 ---
 
 ### Stack

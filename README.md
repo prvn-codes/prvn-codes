@@ -9,7 +9,7 @@
 
 ### 🛠 What I'm working on
 
-- Building AI agents, chat-with-your-data analytics and LLM pipelines for an employee-engagement product.
+- Building AI agents, conversational analytics and LLM pipelines for an employee-engagement product.
 - Working closely with enterprise customers on integrations and AI workflows.
 - Crafting developer tooling that smooths out everyday workflows.
 
